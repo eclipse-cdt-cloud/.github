@@ -2,9 +2,9 @@
 
 ## About
 
-Eclipse CDT Cloud is an [Eclipse Foundation project](https://projects.eclipse.org/projects/ecd.cdt-cloud) building open source components and sharing best practices for customizable C/C++ development tools. Our goal is to make it easier to assemble tools for the browser or desktop that fit your needs.
+Eclipse CDT Cloud is an [Eclipse Foundation project](https://projects.eclipse.org/projects/ecd.cdt-cloud) building open source components and sharing best practices for customizable C/C++ development tools. Our goal is to make it easier to assemble development tools for the browser or desktop that fit your needs.
 
-The [CDT Cloud Blueprint](https://github.com/eclipse-cdt-cloud/cdt-cloud-blueprint) brings language support, debugging, memory inspection, and trace visualization together in an example built on Eclipse Theia. Explore the [project website](https://eclipse.dev/cdt-cloud/) to see it in action.
+The components developed by the CDT Cloud community include language support, debugging, memory inspection, trace visualization, and more. They are designed to provide a full-featured development experience for C/C++ in modular architecture. Consequently, they can be integrated in VS Code, Eclipse Theia or custom web applications. You can also try several of those components directly at  [try.theia-cloud.io](https://try.theia-cloud.io/).
 
 ## Join the community
 
@@ -53,11 +53,10 @@ These extensions connect tools to remote debug services and serial devices, incl
 
 ### Other
 
-Start with the Blueprint for an integrated example, or explore language tooling, shared UI components, and project information.
 
 | Repository | Description |
 | --- | --- |
-| [cdt-cloud-blueprint](https://github.com/eclipse-cdt-cloud/cdt-cloud-blueprint) | A starter application that integrates CDT Cloud components. |
+| [cdt-cloud-blueprint](https://github.com/eclipse-cdt-cloud/cdt-cloud-blueprint) | A starter application that integrates CDT Cloud components in Eclipse Theia. |
 | [clangd-contexts](https://github.com/eclipse-cdt-cloud/clangd-contexts) | APIs for managing clangd configuration across C/C++ project contexts. |
 | [vscode-clangd](https://github.com/eclipse-cdt-cloud/vscode-clangd) | A fork of the clangd extension with support for multiple projects. |
 | [vscode-ui-components](https://github.com/eclipse-cdt-cloud/vscode-ui-components) | Shared UI components for CDT Cloud extensions for VS Code compatible editors and Theia. |
