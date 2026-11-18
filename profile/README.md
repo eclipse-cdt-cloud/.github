@@ -1,4 +1,4 @@
-![Eclipse CDT Cloud logo](./cdtcloud.png)
+![Eclipse CDT Cloud logo](./cdtcloud_readme.png)
 
 ## About
 
