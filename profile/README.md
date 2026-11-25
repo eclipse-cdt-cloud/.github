@@ -35,11 +35,9 @@ Explore the Trace Server Protocol (TSP), its client libraries, and viewer compon
 | [trace-server-protocol](https://github.com/eclipse-cdt-cloud/trace-server-protocol) | The Trace Server Protocol (TSP) specification. |
 | [tsp-typescript-client](https://github.com/eclipse-cdt-cloud/tsp-typescript-client) | A TypeScript client library for TSP. |
 | [tsp-python-client](https://github.com/eclipse-cdt-cloud/tsp-python-client) | A Python client library for TSP. |
-| [theia-trace-extension](https://github.com/eclipse-cdt-cloud/theia-trace-extension) | Trace visualization for Eclipse Theia. |
 | [vscode-trace-extension](https://github.com/eclipse-cdt-cloud/vscode-trace-extension) | A TSP trace viewer for VS Code compatible editors and Theia. |
 | [vscode-trace-server](https://github.com/eclipse-cdt-cloud/vscode-trace-server) | An extension that starts and stops a trace server for the trace viewer. |
 | [timeline-chart](https://github.com/eclipse-cdt-cloud/timeline-chart) | A timeline chart library for large data sets such as traces. |
-| [traceviewer-libs](https://github.com/eclipse-cdt-cloud/traceviewer-libs) | Reusable base and React components for trace viewers. |
 | [trace-viewer-examples](https://github.com/eclipse-cdt-cloud/trace-viewer-examples) | Example applications and building blocks for trace viewers. |
 
 ### Connectivity
